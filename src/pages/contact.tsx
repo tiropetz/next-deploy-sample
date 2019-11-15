@@ -3,9 +3,9 @@ import Link from "next/link";
 
 const Page: NextPage = () => (
   <h1>
-    index page!
+    contact
     <div>
-      <Link href="/contact">to contact</Link>
+      <Link href="/">to top</Link>
     </div>
   </h1>
 );
